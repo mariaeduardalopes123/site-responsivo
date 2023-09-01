@@ -49,6 +49,10 @@
     text-decoration: none;
     color: var(--azul-degrade);
  }
+
+ .menu-titulo{
+    color: var(--laranja);
+ }
     
     @media screen and (min-width: 1024px) {
     .cabecalho-titulo {
