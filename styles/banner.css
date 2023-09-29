@@ -26,4 +26,8 @@
 
 .banner-pesquisa::placeholder {
     color: var(--branco);
+    font-family: var(--fontr-principal);
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
 }
