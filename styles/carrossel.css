@@ -10,6 +10,6 @@
 .swiper-button-prev , .swiper-button-next {
     display: none;
 }
-    .swiper-slide {
+    .swiper-slide img {
         width: 100%;
     }
